@@ -1,0 +1,1 @@
+# to-construct-the-pattern-using-a-nested-for-loop
